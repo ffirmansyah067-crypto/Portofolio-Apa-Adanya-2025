@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 2. Fungsi Typing Effect (Efek Mengetik)
     const typingElement = document.getElementById('typing-text');
-    const roleTexts = ["Web Developer", "Frontend Expert", "Problem Solver"];
+    const roleTexts = ["NPC Didunia Nyata🤓", "Pemula Dalam Sebuah Hal😅", "Eksaitit Sendiri Gwa Njir😖"];
     let roleIndex = 0;
     let charIndex = 0;
     const typingSpeed = 100; // ms
